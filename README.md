@@ -9,17 +9,18 @@
 
   
 ## 🐣Experience🐣
-#### 42Seoul
+### 42Seoul
 ###### Cadet
 ###### 2021년 2월 - 2021년 7월
 
   <br> 
   
-#### SSAFY
+### SSAFY
 ###### 교육생
 ###### 2021년 7월 - 현재
 
-<br><br>
+<br>
+  
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdpkct)](https://solved.ac/cdpkct)
 
 <!--
