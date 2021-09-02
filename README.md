@@ -6,12 +6,15 @@
 ###### Techs that I've used at least once <br>
  [![C Badge](http://img.shields.io/badge/-C-black?style=flat-square&logo=C&logoColor=ffffff)]()  &nbsp; [![C++ Badge](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)]()  &nbsp;[![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=ffffff)]()&nbsp; [![JavaScript Badge](http://img.shields.io/badge/-JavaScript-feda2c?style=flat-square&logo=JavaScript&logoColor=ffffff)]()&nbsp;&nbsp;[![CSS Badge](http://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)]() &nbsp;<br>[![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)]()[&nbsp;&nbsp;![MySQL Badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)]()
 
-<br><br>
+
+  
 ## 🐣Experience🐣
 #### 42Seoul
 ###### Cadet
 ###### 2021년 2월 - 2021년 7월
-<br><br>
+
+  <br> 
+  
 #### SSAFY
 ###### 교육생
 ###### 2021년 7월 - 현재
