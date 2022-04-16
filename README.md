@@ -17,8 +17,14 @@
   
 ### SSAFY
 ###### 교육생
-###### 2021년 7월 - 현재
-
+###### 2021년 7월 - 2022년 4월
+  
+  <br> 
+  
+### ???
+###### ???
+###### 2022년 5월 - 현재
+  
 <br>
   
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdpkct)](https://solved.ac/cdpkct)
